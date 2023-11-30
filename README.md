@@ -47,7 +47,7 @@ By the end of Thursday, upload all of your work (screenshots, presentation slide
 
 ### Built With
 <li>Javascript</li>
-<li>Postman API</li>
+<li>React JS</li>
 <li>Azure Custom Vision</li>
 <br>
 
